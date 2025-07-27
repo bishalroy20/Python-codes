@@ -1,12 +1,12 @@
 # part 3 : Take input
 
-""" print("Give me money ")
+print("Give me money ")
 input()
 # input('Give me money')
 
 qty = input()
 print(f"Money given : {qty} .")
-print("Money given : " , qty) """
+print("Money given : " , qty)
 
 # Example of input
 
