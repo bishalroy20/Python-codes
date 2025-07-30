@@ -8,6 +8,7 @@ def double(num):
 
 double(5)
 
+
 # Example 2 : return
 def double_return(num):
     result = num * 2
@@ -16,12 +17,14 @@ def double_return(num):
 ans = double_return(5)
 print(ans)
 
+
 # Example 3 : multiple parameters
 def add_numbers(num1, num2 , num3):
     return num1 + num2 + num3
 
 ans = add_numbers(5, 10, 15)
 print(ans)
+
 
 
 # Part 9 : default parameter and args
