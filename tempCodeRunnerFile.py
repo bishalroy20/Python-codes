@@ -1,12 +1,12 @@
-player = ['sakib' , ' mushfiq' , 'masrafi']
 
-age = [25 , 26 , 18]
+from math import *
+from random import *
 
-age_comb = []
+result = ceil(4.6)
+result = floor(4.6)
+print(result)
 
-for p in player:
-    print('player : ',p)
-    for a in age:
-        age_comb.append([p , a])
+print(random())
+print(randint(1,50))
 
-print(age_comb)
+print(choice(['sakib' , 'mush' , 'ta' , 'fiz' , 'awd']))
